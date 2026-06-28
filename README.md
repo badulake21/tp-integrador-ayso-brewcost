@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="capturas/figura6_ejecucion.png" width="800">
+  <img src="capturas/captura 1.jpg" width="800">
 </p>
 
 # 🍺 BrewCost
