@@ -68,9 +68,10 @@ informe/
 
 ---
 
-## Autor
+## Autores
 
 **Leandro Campi**
+**Christian Maioli Mackeprang**
 
 Tecnicatura Universitaria en Programación a Distancia
 
