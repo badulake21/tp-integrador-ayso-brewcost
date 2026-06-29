@@ -65,7 +65,13 @@ README.md
 capturas/
 informe/
 ```
+## Repositorio
 
+Este proyecto fue desarrollado como parte del Trabajo Práctico Integrador de la materia Arquitectura y Sistemas Operativos.
+
+Repositorio disponible en:
+
+https://github.com/badulake21/tp-integrador-ayso-brewcost
 ---
 
 ## Autores
